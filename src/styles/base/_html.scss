@@ -1,0 +1,17 @@
+.html {
+  font-size: 1.4rem;
+  font-style: italic;
+  color: #08fdd8;
+  margin-left: -2.5rem;
+}
+
+.html--body {
+  margin-left: 2rem;
+}
+
+@media (max-width: 785px) {
+  .html,
+  .html--body {
+    display: none;
+  }
+}

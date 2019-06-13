@@ -1,0 +1,68 @@
+.navigation {
+  width: 7rem;
+  background: #181818;
+  font-size: 0.9rem;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.7rem 0;
+  color: #08fdd8;
+
+  &--signature {
+    font-size: 3rem;
+  }
+}
+
+.navigation__page {
+  margin-top: 0.5rem;
+  color: #444;
+}
+
+.navigation__link {
+  width: 4.5rem;
+  height: 4.5rem;
+  color: #888;
+  padding: 1rem;
+
+  &--text {
+    display: none;
+  }
+
+  &:hover &--svg {
+    display: none;
+  }
+}
+
+.navigation__link:hover .navigation__link--text {
+  margin-top: 1rem;
+  margin-left: -0.5rem;
+  color: #08fdd8;
+  display: block;
+}
+
+@media (max-width: 785px) {
+  .navigation {
+    display: flex;
+    min-height: 6.5rem;
+    max-height: 6.5rem;
+    width: 100vw;
+    max-width: 100%;
+    padding: 0.7rem 0;
+    margin-bottom: 5rem;
+  }
+  .navigation__page {
+    display: inline-block;
+    width: calc(95vw / 5);
+  }
+  .navigation__link {
+    margin: 0 auto;
+  }
+  .navigation--mobile {
+    display: none;
+  }
+  .navigation--signature {
+    display: none;
+  }
+}
