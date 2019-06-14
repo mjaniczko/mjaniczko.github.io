@@ -18,7 +18,7 @@ const About = () => {
               Who doesn't wonder "how would it be to have superpower?", <br />
               Maybe lasers from the eyes are epic, but I truly believe that{' '}
               <br />
-              coding is superpower and seems a bit more useful.
+              coding is also superpower and seems a bit more useful.
               <br /> <br />
               2019-03 - My first commercial work in IT industry as front-end
               developer <br /> in Riot Agency located in Poland, Krakow. <br />{' '}
