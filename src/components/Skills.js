@@ -19,10 +19,11 @@ const Skills = () => {
               The main area of my actual experience and interests is front end
               development. <br />
               HTML, CSS with SASS and BEM, JS with REACT. <br />
-              Right now learning REDUX to make my skills complete as a front end
-              developer. <br /> <br />I know also a bit of back end technologies
-              like Python, Node.js, MongoDB, Postgresql. <br />
-              At this time Python is by far my best one back techbology, but I'm
+              Right now I'm learning REDUX and Cypress to make my skills
+              complete as a front end developer. <br /> <br />I know also a bit
+              of back end technologies like Python, Node.js, MongoDB, Postgresql
+              as well. <br />
+              Today Python is by far my best one back technology, but I'm
               learning daily.
             </p>
             <div className='skills__list'>

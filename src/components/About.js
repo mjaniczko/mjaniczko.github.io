@@ -18,19 +18,19 @@ const About = () => {
               Who doesn't wonder "how would it be to have superpower?", <br />
               Maybe lasers from the eyes are epic, but I truly believe that{' '}
               <br />
-              coding is also superpower and seems a bit more useful.
+              coding is also superpower and it seems to be really useful.
               <br /> <br />
-              2019-03 - My first commercial work in IT industry as front-end
+              2019-03 - My first commercial work in IT industry as a front-end
               developer <br /> in Riot Agency located in Poland, Krakow. <br />{' '}
               <br />
-              I'm extremely passionate about programming, I want make people
-              life easier. <br />
-              Right now I'm focusing on front end development but also doing
-              some back end stuff <br />
-              with Node and Python, databases. In future hope to try myself in
-              AI. <br /> <br />
-              Music lover, combat arts passionate, minimalist with huge hunger
-              of knowledge. <br />
+              I'm extremely passionate about programming and I believe that it
+              can make lives of people easier. <br />
+              Right now I'm focusing on a front end development as well as I'm
+              doing some back end stuff <br />
+              with Node and Python, databases. In the future hope to try myself
+              in AI. <br /> <br />
+              I'm a music lover, combat arts enthusiast, minimalist with huge
+              hunger of knowledge. <br />
               <span style={{ fontStyle: 'italic' }}>
                 <br /> <br /> <br />
                 “Everyday life is like programming, I guess. If you love

@@ -15,7 +15,7 @@ const Home = () => {
           <h1 className='type-1'>Hi,</h1>
           <h1 className='type-2'>I'm Michał</h1>
           <h1 className='type-3'>
-            web developer.
+            a web developer.
             <span
               style={{ marginLeft: '.6rem' }}
               className='html'
