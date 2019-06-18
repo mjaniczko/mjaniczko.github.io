@@ -25,10 +25,6 @@ const About = () => {
               <br />
               I'm extremely passionate about programming and I believe that it
               can make lives of people easier. <br />
-              Right now I'm focusing on a front end development as well as I'm
-              doing some back end stuff <br />
-              with Node and Python, databases. In the future hope to try myself
-              in AI. <br /> <br />
               I'm a music lover, combat arts enthusiast, minimalist with huge
               hunger of knowledge. <br />
               <span style={{ fontStyle: 'italic' }}>
