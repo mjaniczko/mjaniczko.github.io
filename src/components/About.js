@@ -16,7 +16,7 @@ const About = () => {
             <HtmlPageTitle title='About me' />
             <p className='about__text'>
               Maybe some people dream about having supernatural powers <br />
-              but for me programming perefect cods is a dream. And it it seems{' '}
+              but for me programming perfect cods is a dream. And it it seems{' '}
               <br />
               to be much more interesting, useful…
               <br /> <br />
