@@ -73,7 +73,7 @@ const Contact = () => {
           <p className='contact__info'>
             I'm always ready to take a part in interesting challenges. <br />
             If you have any questions don't hesitate to contact me via one of
-            the ways I listed above.
+            the ways I list above.
           </p>
         </div>
         <HtmlBottom />
