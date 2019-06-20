@@ -21,7 +21,7 @@ const Skills = () => {
               HTML, CSS with SASS and BEM, JS with REACT. <br />
               Right now I'm learning REDUX and Cypress to make my skills
               complete as a front end developer. <br /> <br />I know also a bit
-              of back end technologies like Python, Node.js, MongoDB as well.{' '}
+              of back end technologies like: Python, Node.js, MongoDB as well.{' '}
               <br />
               Today Python is by far my best one back technology, but I'm
               learning daily.

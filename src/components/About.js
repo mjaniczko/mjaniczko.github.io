@@ -15,17 +15,17 @@ const About = () => {
           <div>
             <HtmlPageTitle title='About me' />
             <p className='about__text'>
-              Who doesn't wonder "how would it be to have superpower?", <br />
-              Maybe lasers from the eyes are epic, but I truly believe that{' '}
+              Maybe some people dream about having supernatural powers <br />
+              but for me programming perefect cods is a dream. And it it seems{' '}
               <br />
-              coding is also superpower and it seems to be really useful.
+              to be much more interesting, useful…
               <br /> <br />
-              2019-03 - My first commercial work in IT industry as a front-end
-              developer <br /> in Riot Agency located in Poland, Krakow. <br />{' '}
-              <br />
+              2019-03 - My first commercial work in the IT industry as a
+              front-end developer <br /> in Riot Agency located in Poland,
+              Krakow. <br /> <br />
               I'm extremely passionate about programming and I believe that it
               can make lives of people easier. <br />
-              I'm a music lover, combat arts enthusiast, minimalist with huge
+              I'm a music lover, martial arts enthusiast, minimalist with huge
               hunger of knowledge. <br />
               <span style={{ fontStyle: 'italic' }}>
                 <br /> <br /> <br />
