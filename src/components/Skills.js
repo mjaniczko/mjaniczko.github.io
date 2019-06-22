@@ -16,12 +16,12 @@ const Skills = () => {
           <div className='skills_wrapper'>
             <HtmlPageTitle title='Skills & experience' />
             <p className='about__text'>
-              The main area of my actual experience and interests is front end
+              The main area of my actual experience and interest is front end
               development. <br />
               HTML, CSS with SASS and BEM, JS with REACT. <br />
               Right now I'm learning REDUX and Cypress to make my skills
-              complete as a front end developer. <br /> <br />I know also a bit
-              of back end technologies like: Python, Node.js, MongoDB as well.{' '}
+              complete as a front end developer. <br /> <br />I know a bit of
+              back end technologies like: Python, Node.js, MongoDB as well.{' '}
               <br />
               Today Python is by far my best one back technology, but I'm
               learning daily.

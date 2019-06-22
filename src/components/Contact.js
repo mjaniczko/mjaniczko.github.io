@@ -71,9 +71,9 @@ const Contact = () => {
 
           <br />
           <p className='contact__info'>
-            I'm always ready to take a part in interesting challenges. <br />
+            I'm always ready to take a part in an interesting challenges. <br />
             If you have any questions don't hesitate to contact me via one of
-            the ways I list above.
+            the ways listed above.
           </p>
         </div>
         <HtmlBottom />
