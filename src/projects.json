@@ -12,5 +12,12 @@
     "gitLink": "https://github.com/mjaniczko/Brain",
     "liveLink": "https://mj-smart-brain.herokuapp.com/",
     "description": "React app with Node and PosgreSQL. Connect with Clarifai API responsible for detecting faces on pictures. Supports only first hit so if you add picture url where is more faces than one app still frame only one face. Contains authentication."
+  },
+  "Burger": {
+    "title": "Burger",
+    "imgSrc": "./imgs/burger.png",
+    "gitLink": "https://github.com/mjaniczko/Burger",
+    "liveLink": "https://react-burger-b664f.web.app/",
+    "description": "React app. Connect with firebase. App allow to build your own burger from 4 ingredients, order it - send to firebase - and see history of your orders. Contains authentication."
   }
 }
