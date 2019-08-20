@@ -11,7 +11,7 @@
     "imgSrc": "./imgs/smartbrain.png",
     "gitLink": "https://github.com/mjaniczko/Brain",
     "liveLink": "https://mj-smart-brain.herokuapp.com/",
-    "description": "React app with Node and PosgreSQL. Connect with Clarifai API responsible for detecting faces on pictures. Supports only first hit so if you add picture url where is more faces than one app still frame only one face. Contains authentication."
+    "description": "React app with Node and PosgreSQL. Connect with Clarifai API responsible for detecting faces on pictures. Supports only first hit if you add picture url where is more faces app still frame only one face."
   },
   "Burger": {
     "title": "Burger",
